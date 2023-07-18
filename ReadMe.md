@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there... I'm Ertuğrul Yaman <br>💻I'm a Front-End Developer<br>
+👋 Hi there... I'm Ertuğrul Yaman <br>💻I'm a Full Stack Developer<br>
 
 
 ## 🌐 Socials:
