@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Nuxt**
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
