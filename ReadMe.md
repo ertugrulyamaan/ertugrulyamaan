@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@ertugrulyaman99](https://medium.com/@ertugrulyaman99)
 
-- 💬 Ask me about **Nuxt**
+- 💬 Ask me **anything!**
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
