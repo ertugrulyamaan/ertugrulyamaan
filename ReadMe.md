@@ -48,5 +48,9 @@ Introduced GitLab CI/CD pipelines and migrated the team's projects to them · es
 
 ### Latest articles
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- [Understanding Real Engineering Trade-offs: Thinking About Multi-Tenant Systems from the Wrong…](https://medium.com/@ertugrulyaman99/understanding-real-engineering-trade-offs-thinking-about-multi-tenant-systems-from-the-wrong-3ebad168e1c3?source=rss-b0868934529d------2) — <sub>Mar 2026</sub> 
+- [Gerçek Mühendislik Kararlarını Anlamak: Multi-Tenant Sistemleri Yanlış Yerden Düşünmek](https://medium.com/@ertugrulyaman99/ger%C3%A7ek-m%C3%BChendislik-kararlar%C4%B1n%C4%B1-anlamak-multi-tenant-sistemleri-yanl%C4%B1%C5%9F-yerden-d%C3%BC%C5%9F%C3%BCnmek-241feffc0a5d?source=rss-b0868934529d------2) — <sub>Mar 2026</sub> 
+- [Breaking Points of Performance: Making the BiletAndMore Homepage Truly Faster](https://medium.com/@ertugrulyaman99/breaking-points-of-performance-making-the-biletandmore-homepage-truly-faster-7edfbd9156d7?source=rss-b0868934529d------2) — <sub>Nov 2025</sub> 
+- [Performansın Kırılma Noktaları: BiletAndMore’da Ana Sayfayı Gerçekten Hızlandırmak](https://medium.com/@ertugrulyaman99/performans%C4%B1n-k%C4%B1r%C4%B1lma-noktalar%C4%B1-biletandmoreda-ana-sayfay%C4%B1-ger%C3%A7ekten-h%C4%B1zland%C4%B1rmak-b2d03a4aaa8d?source=rss-b0868934529d------2) — <sub>Nov 2025</sub> 
+- [Composables Mimarisinde Clean Code Yaklaşımları: DRY, KISS, SOLID ile Temiz ve Ölçeklenebilir Kod](https://medium.com/@ertugrulyaman99/composables-mimarisinde-clean-code-yakla%C5%9F%C4%B1mlar%C4%B1-dry-kiss-solid-ile-temiz-ve-%C3%B6l%C3%A7eklenebilir-kod-9465385a9365?source=rss-b0868934529d------2) — <sub>Nov 2025</sub> 
 <!-- BLOG-POST-LIST:END -->
