@@ -20,3 +20,4 @@ jobs:
           template: "- [$title]($url) — <sub>$date</sub> $newline"
           date_format: "mmm yyyy"
           commit_message: "chore: update latest Medium posts"
+          readme_path: ./ReadMe.md
